@@ -22,11 +22,11 @@
 
 Clique nos ícones e veja:
 
-<a href="https://www.linkedin.com/in/murilo-cavalcanti-7b2039193/" target="_blank"><img width="105em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> ◄ Perfil do LinkedIn;
+<a target="_blank" href="https://www.linkedin.com/in/murilo-cavalcanti-7b2039193/"><img width="105em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> ◄ Perfil do LinkedIn;
 
- <a href="https://codepen.io/padawanDev" target="_blank"><img width="105em" src="https://img.shields.io/badge/codepen-666666?style=for-the-badge&logo=codepen&logoColor=white"></a> ◄ Pequenos problemas de código em JavaScript que resolvo para exercitar a Lógica e linguagem;
+ <a target="_blank" href="https://codepen.io/padawanDev"><img width="105em" src="https://img.shields.io/badge/codepen-666666?style=for-the-badge&logo=codepen&logoColor=white"></a> ◄ Pequenos problemas de código em JavaScript que resolvo para exercitar a Lógica e linguagem;
 
-<a href="https://medium.com/@murilocavalcanti-21796" target="_blank"><img width="105em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> ◄ Meu blog no Medium para me conhecer melhor. Nele eu exponho um pouco do meu lado acadêmico e pessoal.
+<a target="_blank" href="https://medium.com/@murilocavalcanti-21796"><img width="105em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> ◄ Meu blog no Medium para me conhecer melhor. Nele eu exponho um pouco do meu lado acadêmico e pessoal.
 
 ---
 <br>
