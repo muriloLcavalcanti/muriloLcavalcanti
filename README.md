@@ -1,4 +1,4 @@
-<h1> Olá, visitante <img src=https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif width = "43em">. Eu sou o Murilo <img src="https://komarev.com/ghpvc/?username=muriloLcavalcanti&color=green"/></h1>
+<h1> Olá, visitante <img src=https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif width = "43em">. Eu sou o Murilo</h1>
 
 ### :dart: **Stacks em que estou me desenvolvendo** :hammer_and_wrench::
 
