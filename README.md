@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
  ![](https://img.shields.io/badge/VS_code-2966CE?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+ ![](https://img.shields.io/badge/git-E34F26?style=for-the-badge&logo=git&logoColor=white)
   
 #
 
@@ -32,6 +33,6 @@ Clique nos ícones e veja:
 <br>
 
 <p>
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=muriloLcavalcanti&show_icons=true&theme=tokyonight">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloLcavalcanti&layout=compact">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=muriloLcavalcanti&show_icons=true&theme=tokyonight">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloLcavalcanti&layout=compact">
 </p>
